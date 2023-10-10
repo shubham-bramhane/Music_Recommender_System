@@ -5,4 +5,6 @@ first run the model traning.ipynb
 
 then open terminal and type 
 
-streamlit run app.py
+ ```sh
+   streamlit run app.py
+    ```
